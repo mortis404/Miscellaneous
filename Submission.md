@@ -1,8 +1,6 @@
 
 # BCGDV Internship Application Instructions
 
----
-
 ## Generating an API key
 
 `curl -i -H "Accept: application/json" -H "Content-Type: application/json" -X GET https://interns.bcgdvsydney.com/api/v1/key`
